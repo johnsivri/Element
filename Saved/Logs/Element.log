@@ -627,3 +627,6 @@ LogInit: Object subsystem initialized
 [2018.07.29-20.24.02:363][751]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
 [2018.07.29-20.24.13:730][422]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
 [2018.07.29-20.24.23:556][  5]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.29-20.33.16:130][ 20]LogSavePackage: Moving '../../../../../Projects/Element/Saved/Minimal_Default_Auto16F8A6C6C47C4712160925592618E55B2.tmp' to '../../../../../Projects/Element/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2018.07.29-20.33.16:155][ 20]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.886
+[2018.07.29-20.33.16:155][ 20]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.886
